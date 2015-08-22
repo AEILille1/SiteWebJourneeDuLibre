@@ -2535,3 +2535,9 @@
 			}
 
 	}
+
+	/*NEW RULES*/
+
+  #to_hide_gnu ul li, #to_hide_fos ul li, #to_hide_ah ul li, #to_hide_mozpriv ul li {
+		list-style: disc;
+	}
